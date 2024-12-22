@@ -15,12 +15,8 @@ Here are some ideas to get you started:
   
 <div align="center">
 
-<a href="">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Paraliyzedevo&show_icons=true&hide=stars,prs&theme=catppuccin_mocha" />
-</a>
-<a href="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paraliyzedevo&langs_count=4&layout=compact&theme=catppuccin_mocha" />
-</a>
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=Paraliyzedevo&show_icons=true&hide=stars,prs&theme=catppuccin_mocha" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paraliyzedevo&langs_count=4&layout=compact&theme=catppuccin_mocha" />
 <br>
 <a href="https://paraliyzed.net" alt="website">
 <img src="GStEK3UXsAAV3YY.jpg" width="40%" height="40%">
