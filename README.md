@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 <a href="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paraliyzedevo&langs_count=4&layout=compact&theme=catppuccin_mocha" />
 </a>
+<br>
 <a href="https://paraliyzed.net" alt="website">
-<img src="https://github.com/user-attachments/assets/bb66475d-5225-40a3-83fc-377475306b8e" width="30%" height="30%">
+<img src="GStEK3UXsAAV3YY.jpg" width="40%" height="40%">
 </a>
 <br>
 <a href="https://github.com/Paraliyzedevo/flowabot">
