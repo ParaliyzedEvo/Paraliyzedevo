@@ -29,6 +29,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paraliyzedevo&repo=flowabot&theme=catppuccin_mocha&show_owner=true" />
 </a>
 <a href="https://github.com/Paraliyzedevo/website">
-  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Paraliyzedevo&repo=website&theme=catppuccin_mocha&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paraliyzedevo&repo=website&theme=catppuccin_mocha&show_owner=true" />
 </a>
 
