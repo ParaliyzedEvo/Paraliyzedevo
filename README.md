@@ -32,6 +32,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paraliyzedevo&repo=crush&theme=catppuccin_mocha&show_owner=true" />
 </a>
 <a href="https://github.com/Paraliyzedevo/simulation">
-  <img height="137" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paraliyzedevo&repo=simulation&theme=catppuccin_mocha&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paraliyzedevo&repo=simulation&theme=catppuccin_mocha&show_owner=true" />
 </a>
 
