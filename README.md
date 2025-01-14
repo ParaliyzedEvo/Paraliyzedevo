@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/Paraliyzedevo/flowabot">
   <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Paraliyzedevo&repo=flowabot&theme=catppuccin_mocha&show_owner=true" />
 </a>
-<a href="https://github.com/Paraliyzedevo/website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paraliyzedevo&repo=website&theme=catppuccin_mocha&show_owner=true" />
-</a>
 <a href="https://github.com/Paraliyzedevo/crush">
   <img height="120" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paraliyzedevo&repo=crush&theme=catppuccin_mocha&show_owner=true" />
+</a>
+<a href="https://github.com/Paraliyzedevo/website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paraliyzedevo&repo=website&theme=catppuccin_mocha&show_owner=true" />
 </a>
 <a href="https://github.com/Paraliyzedevo/simulation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paraliyzedevo&repo=simulation&theme=catppuccin_mocha&show_owner=true" />
