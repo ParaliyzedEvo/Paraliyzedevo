@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Paraliyzedevo/website">
   <img align="center" src="https://readmestats.paraliyzed.net/api/pin/?username=Paraliyzedevo&repo=website&theme=catppuccin_mocha&show_owner=true" />
 </a>
-<a href="https://github.com/Paraliyzedevo/simulation">
+<a href="https://github.com/Paraliyzedevo/EvosOverlay">
   <img align="center" src="https://readmestats.paraliyzed.net/api/pin/?username=Paraliyzedevo&repo=EvosOverlay&theme=catppuccin_mocha&show_owner=true" />
 </a>
 
